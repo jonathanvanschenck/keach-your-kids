@@ -782,195 +782,212 @@ questions:
     scriptures:
   -
     number: 57
-    completed: false
+    completed: true
     trad:
       Q: "What is it to believe or have faith in Christ?"
       A: "To trust in Christ alone for salvation."
     adapt:
-      Q: ""
-      A: ""
+      Q: "What does it mean to believe in Christ?"
+      A: "It is faith: trusting that Christ alone saves us."
     notes: |-
-      No Change.
+      "What is it to" is changed to "What does it mean to" for consistency with [question 56](/cfyc/questions/56).
+      Additionally, rather than embedding the synonym of "believe" and "have faith" in the questoin, we
+      make it explicit in the answer. This also makes the question a cleaner clarification of the answer
+      to [question 55](/cfyc/questions/55).
 
     scriptures:
   -
     number: 58
-    completed: false
+    completed: true
     trad:
       Q: "Can you repent and believe in Christ by your own power?"
       A: "No; I can do nothing good without the help of God’s Holy Spirit."
     adapt:
-      Q: ""
-      A: ""
+      Q: "Can you repent of your sins, believe in Christ, and lead a holy life by your own power?"
+      A: "No; I can only repent, believe, live by the power of God's Holy Spirit."
     notes: |-
-      No Change.
+      Overall, the question and answers are expanded to more directly echo [question 55](/cfyc/questions/55).
+      Additionally, the answer is recast as a positive statement to prevent the double negative construction.
+      Granted, this does weaken the force of the original somewhat, but the positive construction is easier for children to parse.
+      Next, the answer original answer's (while true) is less focused on the actual issue of salvation, so we narrow
+      it to the threefold action of repentance, faith and sanctified living. Finally, we also sharpen the language to
+      contrast one's own power with the Sprit's power.
 
     scriptures:
   -
     number: 59
-    completed: false
+    completed: true
     trad:
       Q: "How can you get the help of the Holy Spirit?"
       A: "God has told us that we must pray to him for the Holy Spirit."
     adapt:
-      Q: ""
-      A: ""
+      Q: "How can you get the power and help of the Holy Spirit?"
+      A: "God has told us that we must pray to Him and ask for the Holy Spirit."
     notes: |-
-      No Change.
+      For the last several questions, "help" has been modified to "power", but
+      at this point, we retain "help" as a the relevent work, but add "power" for
+      continuity. Additionally, we add "and ask" to the answer to make it more explicit.
 
     scriptures:
   -
     number: 60
-    completed: false
+    completed: true
     trad:
       Q: "How long ago is it since Christ died?"
       A: "More than nineteen hundred years."
     adapt:
-      Q: ""
-      A: ""
+      Q: "When did Christ die?"
+      A: "Two thousand years ago."
     notes: |-
-      No Change.
+      Update the timing for the 21st century, and simplify the question.
 
     scriptures:
   -
     number: 61
-    completed: false
+    completed: true
     trad:
       Q: "How were pious persons saved before the coming of Christ?"
       A: "By believing in a Savior to come."
     adapt:
-      Q: ""
-      A: ""
+      Q: "How were God's people saved before Christ came?"
+      A: "By believing in the Savior who was to come."
     notes: |-
-      No Change.
+      "Pious persons" is changed to "God's people", since it is the piety of the person
+      is actually immaterial to their salvation. Rather, it is their status as part of God's elect people
+      that matters. Granted, this different could be due to a historical connotation of "pious persons"
+      that is lost to modern audiences.
 
     scriptures:
   -
     number: 62
-    completed: false
+    completed: true
     trad:
       Q: "How did they show their faith?"
       A: "By offering sacrifices on God’s altar."
     adapt:
-      Q: ""
-      A: ""
+      Q: "How did they show their faith?"
+      A: "By offering proper sacrifices on God’s altar."
     notes: |-
-      No Change.
+      We add "proper" to clarify that not just any sacrifice would do. The sacrifices
+      had to be in accordance with God's law, which is alluded to in the original
+      answer by the reference to "God's altar" -- the only acceptable location for
+      sacrifices.
 
     scriptures:
   -
     number: 63
-    completed: false
+    completed: true
     trad:
       Q: "What did these sacrifices represent?"
       A: "Christ, the Lamb of God, who was to die for sinners."
     adapt:
-      Q: ""
-      A: ""
+      Q: "What did these sacrifices represent?"
+      A: "Christ as the Lamb of God, who would die for sinners."
     notes: |-
-      No Change.
+      We include the "as" to highlight the representation pointing at Christ's role specifically.
+      Additinally, "was to" is a little awkward, so we change it to simply "would".
 
     scriptures:
   -
     number: 64
-    completed: false
+    completed: true
     trad:
       Q: "What offices has Christ?"
       A: "Christ has three offices."
     adapt:
-      Q: ""
-      A: ""
+      Q: "How many offices does Christ have?"
+      A: "Christ has three offices."
     notes: |-
-      No Change.
+      Changing "What...has" to "How many" for clarity.
 
     scriptures:
   -
     number: 65
-    completed: false
+    completed: true
     trad:
       Q: "What are they?"
       A: "The offices of a prophet, of a priest, and of a king."
     adapt:
-      Q: ""
-      A: ""
+      Q: "What are they?"
+      A: "Christ is a prophet, priest, and king."
     notes: |-
-      No Change.
+      The answer is rephrased to be more direct and active.
 
     scriptures:
   -
     number: 66
-    completed: false
+    completed: true
     trad:
       Q: "How is Christ a prophet?"
       A: "Because he teaches us the will of God."
     adapt:
-      Q: ""
-      A: ""
+      Q: "How is Christ a prophet?"
+      A: "Because he teaches us the will of God."
     notes: |-
       No Change.
 
     scriptures:
   -
     number: 67
-    completed: false
+    completed: true
     trad:
       Q: "How is Christ a priest?"
       A: "Because he died for our sins and pleads with God for us."
     adapt:
-      Q: ""
-      A: ""
+      Q: "How is Christ a priest?"
+      A: "Because he died for our sins and pleads with God for us."
     notes: |-
       No Change.
 
     scriptures:
   -
     number: 68
-    completed: false
+    completed: true
     trad:
       Q: "How is Christ a king?"
       A: "Because he rules over us and defends us."
     adapt:
-      Q: ""
-      A: ""
+      Q: "How is Christ a king?"
+      A: "Because he rules over us and defends us."
     notes: |-
       No Change.
 
     scriptures:
   -
     number: 69
-    completed: false
+    completed: true
     trad:
       Q: "Why do you need Christ as a prophet?"
       A: "Because I am ignorant."
     adapt:
-      Q: ""
-      A: ""
+      Q: "Why do you need Christ as a prophet?"
+      A: "Because I am ignorant."
     notes: |-
       No Change.
 
     scriptures:
   -
     number: 70
-    completed: false
+    completed: true
     trad:
       Q: "Why do you need Christ as a priest?"
       A: "Because I am guilty."
     adapt:
-      Q: ""
-      A: ""
+      Q: "Why do you need Christ as a priest?"
+      A: "Because I am guilty."
     notes: |-
       No Change.
 
     scriptures:
   -
     number: 71
-    completed: false
+    completed: true
     trad:
       Q: "Why do you need Christ as a king?"
       A: "Because I am weak and helpless."
     adapt:
-      Q: ""
-      A: ""
+      Q: "Why do you need Christ as a king?"
+      A: "Because I am weak and helpless."
     notes: |-
       No Change.
 

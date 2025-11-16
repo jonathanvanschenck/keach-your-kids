@@ -16,8 +16,8 @@ For a printable page, [click here](/cfyc/full)
 
 <div>
   <span style="margin-right: 1rem;">Adaptation Progress:</span>
-  <progress value="60" max="144"></progress>
-  <span style="margin-left: 1rem;">41.7%</span>
+  <progress value="75" max="144"></progress>
+  <span style="margin-left: 1rem;">52.1%</span>
 </div>
 
 | Link | Adapted |
@@ -135,35 +135,35 @@ For a printable page, [click here](/cfyc/full)
 | :----: | :---------: |
 | [Question 56](/cfyc/questions/56) | ✅ |
 | :----: | :---------: |
-| [Question 57](/cfyc/questions/57) | ⛔ |
+| [Question 57](/cfyc/questions/57) | ✅ |
 | :----: | :---------: |
-| [Question 58](/cfyc/questions/58) | ⛔ |
+| [Question 58](/cfyc/questions/58) | ✅ |
 | :----: | :---------: |
-| [Question 59](/cfyc/questions/59) | ⛔ |
+| [Question 59](/cfyc/questions/59) | ✅ |
 | :----: | :---------: |
-| [Question 60](/cfyc/questions/60) | ⛔ |
+| [Question 60](/cfyc/questions/60) | ✅ |
 | :----: | :---------: |
-| [Question 61](/cfyc/questions/61) | ⛔ |
+| [Question 61](/cfyc/questions/61) | ✅ |
 | :----: | :---------: |
-| [Question 62](/cfyc/questions/62) | ⛔ |
+| [Question 62](/cfyc/questions/62) | ✅ |
 | :----: | :---------: |
-| [Question 63](/cfyc/questions/63) | ⛔ |
+| [Question 63](/cfyc/questions/63) | ✅ |
 | :----: | :---------: |
-| [Question 64](/cfyc/questions/64) | ⛔ |
+| [Question 64](/cfyc/questions/64) | ✅ |
 | :----: | :---------: |
-| [Question 65](/cfyc/questions/65) | ⛔ |
+| [Question 65](/cfyc/questions/65) | ✅ |
 | :----: | :---------: |
-| [Question 66](/cfyc/questions/66) | ⛔ |
+| [Question 66](/cfyc/questions/66) | ✅ |
 | :----: | :---------: |
-| [Question 67](/cfyc/questions/67) | ⛔ |
+| [Question 67](/cfyc/questions/67) | ✅ |
 | :----: | :---------: |
-| [Question 68](/cfyc/questions/68) | ⛔ |
+| [Question 68](/cfyc/questions/68) | ✅ |
 | :----: | :---------: |
-| [Question 69](/cfyc/questions/69) | ⛔ |
+| [Question 69](/cfyc/questions/69) | ✅ |
 | :----: | :---------: |
-| [Question 70](/cfyc/questions/70) | ⛔ |
+| [Question 70](/cfyc/questions/70) | ✅ |
 | :----: | :---------: |
-| [Question 71](/cfyc/questions/71) | ⛔ |
+| [Question 71](/cfyc/questions/71) | ✅ |
 | :----: | :---------: |
 | [Question 72](/cfyc/questions/72) | ⛔ |
 | :----: | :---------: |

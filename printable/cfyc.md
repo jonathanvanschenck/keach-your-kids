@@ -404,108 +404,108 @@ Presbyterians.
 
 
 ---
-## <a id="q-57" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 57</a><a href="/cfyc/full#q-57"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/57" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
+## <a id="q-57" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 57</a><a href="/cfyc/full#q-57"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/57" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+**Question: What does it mean to believe in Christ?**
 
-*Answer: *
-
-
----
-## <a id="q-58" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 58</a><a href="/cfyc/full#q-58"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/58" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
-
-*Answer: *
+*Answer: It is faith: trusting that Christ alone saves us.*
 
 
 ---
-## <a id="q-59" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 59</a><a href="/cfyc/full#q-59"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/59" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
+## <a id="q-58" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 58</a><a href="/cfyc/full#q-58"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/58" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+**Question: Can you repent of your sins, believe in Christ, and lead a holy life by your own power?**
 
-*Answer: *
-
-
----
-## <a id="q-60" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 60</a><a href="/cfyc/full#q-60"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/60" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
-
-*Answer: *
+*Answer: No; I can only repent, believe, live by the power of God's Holy Spirit.*
 
 
 ---
-## <a id="q-61" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 61</a><a href="/cfyc/full#q-61"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/61" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
+## <a id="q-59" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 59</a><a href="/cfyc/full#q-59"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/59" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+**Question: How can you get the power and help of the Holy Spirit?**
 
-*Answer: *
-
-
----
-## <a id="q-62" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 62</a><a href="/cfyc/full#q-62"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/62" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
-
-*Answer: *
+*Answer: God has told us that we must pray to Him and ask for the Holy Spirit.*
 
 
 ---
-## <a id="q-63" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 63</a><a href="/cfyc/full#q-63"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/63" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
+## <a id="q-60" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 60</a><a href="/cfyc/full#q-60"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/60" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+**Question: When did Christ die?**
 
-*Answer: *
-
-
----
-## <a id="q-64" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 64</a><a href="/cfyc/full#q-64"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/64" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
-
-*Answer: *
+*Answer: Two thousand years ago.*
 
 
 ---
-## <a id="q-65" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 65</a><a href="/cfyc/full#q-65"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/65" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
+## <a id="q-61" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 61</a><a href="/cfyc/full#q-61"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/61" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+**Question: How were God's people saved before Christ came?**
 
-*Answer: *
-
-
----
-## <a id="q-66" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 66</a><a href="/cfyc/full#q-66"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/66" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
-
-*Answer: *
+*Answer: By believing in the Savior who was to come.*
 
 
 ---
-## <a id="q-67" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 67</a><a href="/cfyc/full#q-67"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/67" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
+## <a id="q-62" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 62</a><a href="/cfyc/full#q-62"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/62" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+**Question: How did they show their faith?**
 
-*Answer: *
-
-
----
-## <a id="q-68" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 68</a><a href="/cfyc/full#q-68"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/68" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
-
-*Answer: *
+*Answer: By offering proper sacrifices on God’s altar.*
 
 
 ---
-## <a id="q-69" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 69</a><a href="/cfyc/full#q-69"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/69" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
+## <a id="q-63" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 63</a><a href="/cfyc/full#q-63"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/63" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+**Question: What did these sacrifices represent?**
 
-*Answer: *
-
-
----
-## <a id="q-70" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 70</a><a href="/cfyc/full#q-70"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/70" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
-
-*Answer: *
+*Answer: Christ as the Lamb of God, who would die for sinners.*
 
 
 ---
-## <a id="q-71" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 71</a><a href="/cfyc/full#q-71"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/71" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
+## <a id="q-64" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 64</a><a href="/cfyc/full#q-64"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/64" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+**Question: How many offices does Christ have?**
 
-*Answer: *
+*Answer: Christ has three offices.*
+
+
+---
+## <a id="q-65" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 65</a><a href="/cfyc/full#q-65"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/65" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+**Question: What are they?**
+
+*Answer: Christ is a prophet, priest, and king.*
+
+
+---
+## <a id="q-66" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 66</a><a href="/cfyc/full#q-66"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/66" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+**Question: How is Christ a prophet?**
+
+*Answer: Because he teaches us the will of God.*
+
+
+---
+## <a id="q-67" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 67</a><a href="/cfyc/full#q-67"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/67" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+**Question: How is Christ a priest?**
+
+*Answer: Because he died for our sins and pleads with God for us.*
+
+
+---
+## <a id="q-68" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 68</a><a href="/cfyc/full#q-68"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/68" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+**Question: How is Christ a king?**
+
+*Answer: Because he rules over us and defends us.*
+
+
+---
+## <a id="q-69" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 69</a><a href="/cfyc/full#q-69"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/69" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+**Question: Why do you need Christ as a prophet?**
+
+*Answer: Because I am ignorant.*
+
+
+---
+## <a id="q-70" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 70</a><a href="/cfyc/full#q-70"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/70" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+**Question: Why do you need Christ as a priest?**
+
+*Answer: Because I am guilty.*
+
+
+---
+## <a id="q-71" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 71</a><a href="/cfyc/full#q-71"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/71" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+**Question: Why do you need Christ as a king?**
+
+*Answer: Because I am weak and helpless.*
 
 
 ---
