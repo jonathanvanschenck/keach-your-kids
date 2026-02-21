@@ -463,28 +463,28 @@ Presbyterians.
 ## <a id="q-65" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 65</a><a href="/cfyc/full#q-65"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/65" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
 **Question: What are they?**
 
-*Answer: Christ is a prophet, priest, and king.*
+*Answer: Prophet, priest, and king.*
 
 
 ---
 ## <a id="q-66" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 66</a><a href="/cfyc/full#q-66"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/66" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
 **Question: How is Christ a prophet?**
 
-*Answer: Because he teaches us the will of God.*
+*Answer: He teaches us the will of God.*
 
 
 ---
 ## <a id="q-67" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 67</a><a href="/cfyc/full#q-67"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/67" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
 **Question: How is Christ a priest?**
 
-*Answer: Because he died for our sins and pleads with God for us.*
+*Answer: He died for our sins and pleads with God for us.*
 
 
 ---
 ## <a id="q-68" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 68</a><a href="/cfyc/full#q-68"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/68" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
 **Question: How is Christ a king?**
 
-*Answer: Because he rules over us and defends us.*
+*Answer: He rules over us and defends us.*
 
 
 ---
@@ -509,38 +509,38 @@ Presbyterians.
 
 
 ---
-## <a id="q-72" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 72</a><a href="/cfyc/full#q-72"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/72" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
+## <a id="q-72" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 72</a><a href="/cfyc/full#q-72"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/72" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+**Question: How many commandments did God give on Mount Sinai?**
 
-*Answer: *
-
-
----
-## <a id="q-73" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 73</a><a href="/cfyc/full#q-73"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/73" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
-
-*Answer: *
+*Answer: Ten commandments.*
 
 
 ---
-## <a id="q-74" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 74</a><a href="/cfyc/full#q-74"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/74" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
+## <a id="q-73" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 73</a><a href="/cfyc/full#q-73"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/73" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+**Question: What is duty?**
 
-*Answer: *
-
-
----
-## <a id="q-75" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 75</a><a href="/cfyc/full#q-75"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/75" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
-
-*Answer: *
+*Answer: Duty is what God requires us to think, say and do.*
 
 
 ---
-## <a id="q-76" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 76</a><a href="/cfyc/full#q-76"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/76" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
+## <a id="q-74" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 74</a><a href="/cfyc/full#q-74"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/74" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+**Question: What duty do the first four commandments teach?**
 
-*Answer: *
+*Answer: Our duty to God.*
+
+
+---
+## <a id="q-75" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 75</a><a href="/cfyc/full#q-75"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/75" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+**Question: What duty do the last six commandments teach?**
+
+*Answer: Our duty to each other.*
+
+
+---
+## <a id="q-76" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 76</a><a href="/cfyc/full#q-76"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/76" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+**Question: What is the essence of these duties?**
+
+*Answer: To love God with all my heart, soul, mind and strength, and to love my neighbor as myself.*
 
 
 ---
