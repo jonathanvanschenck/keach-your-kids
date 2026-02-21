@@ -909,9 +909,9 @@ questions:
       A: "The offices of a prophet, of a priest, and of a king."
     adapt:
       Q: "What are they?"
-      A: "Christ is a prophet, priest, and king."
+      A: "Prophet, priest, and king."
     notes: |-
-      The answer is rephrased to be more direct and active.
+      The answer is rephrased to be more direct.
 
     scriptures:
   -
@@ -922,9 +922,9 @@ questions:
       A: "Because he teaches us the will of God."
     adapt:
       Q: "How is Christ a prophet?"
-      A: "Because he teaches us the will of God."
+      A: "He teaches us the will of God."
     notes: |-
-      No Change.
+      Removed "Because" for a more direct answer. The question already asks "How", so the "Because" is redundant.
 
     scriptures:
   -
@@ -935,9 +935,9 @@ questions:
       A: "Because he died for our sins and pleads with God for us."
     adapt:
       Q: "How is Christ a priest?"
-      A: "Because he died for our sins and pleads with God for us."
+      A: "He died for our sins and pleads with God for us."
     notes: |-
-      No Change.
+      Removed "Because" for a more direct answer. The question already asks "How", so the "Because" is redundant.
 
     scriptures:
   -
@@ -948,9 +948,9 @@ questions:
       A: "Because he rules over us and defends us."
     adapt:
       Q: "How is Christ a king?"
-      A: "Because he rules over us and defends us."
+      A: "He rules over us and defends us."
     notes: |-
-      No Change.
+      Removed "Because" for a more direct answer. The question already asks "How", so the "Because" is redundant.
 
     scriptures:
   -
@@ -994,67 +994,74 @@ questions:
     scriptures:
   -
     number: 72
-    completed: false
+    completed: true
     trad:
       Q: "How many commandments did God give on Mount Sinai?"
       A: "Ten commandments."
     adapt:
-      Q: ""
-      A: ""
+      Q: "How many commandments did God give on Mount Sinai?"
+      A: "Ten commandments."
     notes: |-
       No Change.
 
     scriptures:
   -
     number: 73
-    completed: false
+    completed: true
     trad:
       Q: "What are the ten commandments sometimes called?"
       A: "The Decalogue."
     adapt:
-      Q: ""
-      A: ""
+      Q: "What is duty?"
+      A: "Duty is what God requires us to think, say and do."
     notes: |-
-      No Change.
+      The ordering here is modified; we start with the explaining duty before describing that
+      explaining the commandments as duties. This seems more important than ensuring a child
+      knowns a particular greek work.
 
     scriptures:
   -
     number: 74
-    completed: false
+    completed: true
     trad:
       Q: "What do the first four commandments teach?"
       A: "Our duty to God."
     adapt:
-      Q: ""
-      A: ""
+      Q: "What duty do the first four commandments teach?"
+      A: "Our duty to God."
     notes: |-
-      No Change.
+      Add 'duty' to the question to sharpen the connection to modified [question 73](/cfyc/questions/73).
 
     scriptures:
   -
     number: 75
-    completed: false
+    completed: true
     trad:
       Q: "What do the last six commandments teach?"
       A: "Our duty to our fellow men."
     adapt:
-      Q: ""
-      A: ""
+      Q: "What duty do the last six commandments teach?"
+      A: "Our duty to each other."
     notes: |-
-      No Change.
+      Add 'duty' to the question to sharpen the connection to modified [question 73](/cfyc/questions/73).
+      "Fellow men" is simplified to "each other"
 
     scriptures:
   -
     number: 76
-    completed: false
+    completed: true
     trad:
       Q: "What is the sum of the ten commandments?"
       A: "To love God with all my heart, and my neighbor as myself."
     adapt:
-      Q: ""
-      A: ""
+      Q: "What is the essence of these duties?"
+      A: "To love God with all my heart, soul, mind and strength, and to love my neighbor as myself."
     notes: |-
-      No Change.
+      Heavily modified question to continue the theme of duty. While 'essence' is a rather specific term,
+      it is preferred here to 'sum' or event the more modern 'summary' since it points to the idea of the "core"
+      or "most important part" of the duties, which is what Jesus was getting at in his summary of the law. Additionally,
+      the answer is also extended to include the full "heart, soul, mind and strength" to match more closely
+      Jesus' own summary of the law.
 
     scriptures:
   -
