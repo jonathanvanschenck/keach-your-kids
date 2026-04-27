@@ -544,59 +544,59 @@ Presbyterians.
 
 
 ---
-## <a id="q-78" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 78</a><a href="/cfyc/full#q-78"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/78" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
+## <a id="q-78" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 78</a><a href="/cfyc/full#q-78"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/78" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+**Question: Is God pleased with those who love and obey him?**
 
-*Answer: *
-
-
----
-## <a id="q-79" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 79</a><a href="/cfyc/full#q-79"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/79" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
-
-*Answer: *
+*Answer: Yes; he says in Proverbs 8:17, “I love those who love me, and those who seek me diligently find me.”*
 
 
 ---
-## <a id="q-80" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 80</a><a href="/cfyc/full#q-80"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/80" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
+## <a id="q-79" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 79</a><a href="/cfyc/full#q-79"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/79" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+**Question: Is God displeased with those who do not love and obey him?**
 
-*Answer: *
-
-
----
-## <a id="q-81" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 81</a><a href="/cfyc/full#q-81"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/81" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
-
-*Answer: *
+*Answer: Yes; he says in Psalm 7:11, “God is a righteous judge, and a God who feels indignation every day.”*
 
 
 ---
-## <a id="q-82" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 82</a><a href="/cfyc/full#q-82"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/82" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
+## <a id="q-80" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 80</a><a href="/cfyc/full#q-80"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/80" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+**Question: What is the first commandment?**
 
-*Answer: *
-
-
----
-## <a id="q-83" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 83</a><a href="/cfyc/full#q-83"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/83" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
-
-*Answer: *
+*Answer: The first commandment is: You shall have no other gods before me.*
 
 
 ---
-## <a id="q-84" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 84</a><a href="/cfyc/full#q-84"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/84" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
+## <a id="q-81" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 81</a><a href="/cfyc/full#q-81"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/81" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+**Question: What duty does the first commandment teach us?**
 
-*Answer: *
+*Answer: To worship God alone.*
 
 
 ---
-## <a id="q-85" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 85</a><a href="/cfyc/full#q-85"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/85" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
+## <a id="q-82" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 82</a><a href="/cfyc/full#q-82"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/82" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+**Question: What is the second commandment?**
 
-*Answer: *
+*Answer: The second commandment is: You shall not make for yourself a carved image, or any likeness of anything that is in heaven above, or that is in the earth beneath, or that is in the water under the earth. You shall not bow down to them or serve them, for I the LORD your God am a jealous God, visiting the iniquity of the fathers on the children to the third and fourth generation of those who hate me, but showing steadfast love to thousands of those who love me and keep my commandments.*
+
+
+---
+## <a id="q-83" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 83</a><a href="/cfyc/full#q-83"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/83" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+**Question: What duty does the second commandment teach us?**
+
+*Answer: To worship God correctly, and to avoid idolatry.*
+
+
+---
+## <a id="q-84" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 84</a><a href="/cfyc/full#q-84"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/84" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+**Question: What is the third commandment?**
+
+*Answer: The third commandment is: You shall not take the name of the LORD your God in vain, for the LORD will not hold him guiltless who takes his name in vain.*
+
+
+---
+## <a id="q-85" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 85</a><a href="/cfyc/full#q-85"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/85" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+**Question: What duty does the third commandment teach us?**
+
+*Answer: To honor God’s name, word, and works.*
 
 
 ---
