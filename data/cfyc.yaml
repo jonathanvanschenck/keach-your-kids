@@ -1058,7 +1058,7 @@ questions:
       A: "To love God with all my heart, soul, mind and strength, and to love my neighbor as myself."
     notes: |-
       Heavily modified question to continue the theme of duty. While 'essence' is a rather specific term,
-      it is preferred here to 'sum' or event the more modern 'summary' since it points to the idea of the "core"
+      it is preferred here to 'sum' or even the more modern 'summary' since it points to the idea of the "core"
       or "most important part" of the duties, which is what Jesus was getting at in his summary of the law. Additionally,
       the answer is also extended to include the full "heart, soul, mind and strength" to match more closely
       Jesus' own summary of the law.
@@ -1066,106 +1066,107 @@ questions:
     scriptures:
   -
     number: 78
-    completed: false
+    completed: true
     trad:
       Q: "Is God pleased with those who love and obey him?"
       A: "Yes; he says, “I love them that love me.”"
     adapt:
-      Q: ""
-      A: ""
+      Q: "Is God pleased with those who love and obey him?"
+      A: "Yes; he says in Proverbs 8:17, “I love those who love me, and those who seek me diligently find me.”"
     notes: |-
-      No Change.
+      Adds the scriptural reference, and updates from KJV to ESV, also expands the reference to the entire verse
 
     scriptures:
   -
     number: 79
-    completed: false
+    completed: true
     trad:
       Q: "Is God displeased with those who do not love and obey him?"
       A: "Yes; “God is angry with the wicked every day.”"
     adapt:
-      Q: ""
-      A: ""
+      Q: "Is God displeased with those who do not love and obey him?"
+      A: "Yes; he says in Psalm 7:11, “God is a righteous judge, and a God who feels indignation every day.”"
     notes: |-
-      No Change.
+      Adds the scriptural reference, and updates from KJV to ESV, also expands the reference to the entire verse
 
     scriptures:
   -
     number: 80
-    completed: false
+    completed: true
     trad:
       Q: "What is the first commandment?"
       A: "The first commandment is, Thou shalt have no other gods before me."
     adapt:
-      Q: ""
-      A: ""
+      Q: "What is the first commandment?"
+      A: "The first commandment is: You shall have no other gods before me."
     notes: |-
-      No Change.
+      Update from KJV to ESV
 
     scriptures:
   -
     number: 81
-    completed: false
+    completed: true
     trad:
       Q: "What does the first commandment teach us?"
       A: "To worship God alone."
     adapt:
-      Q: ""
-      A: ""
+      Q: "What duty does the first commandment teach us?"
+      A: "To worship God alone."
     notes: |-
-      No Change.
+      Supplies the word 'duty' to continue the sectional theme
 
     scriptures:
   -
     number: 82
-    completed: false
+    completed: true
     trad:
       Q: "What is the second commandment?"
       A: "The second commandment is, Thou shalt not make unto thee any graven image, or any likeness of any things that is in heaven above, or that is in the earth beneath, or that is in the water under the earth; thou shalt not bow down thyself to them, nor serve them: for I, the Lord thy God, am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me; and showing mercy unto thousands of them that love me, and keep my commandments."
     adapt:
-      Q: ""
-      A: ""
+      Q: "What is the second commandment?"
+      A: "The second commandment is: You shall not make for yourself a carved image, or any likeness of anything that is in heaven above, or that is in the earth beneath, or that is in the water under the earth. You shall not bow down to them or serve them, for I the LORD your God am a jealous God, visiting the iniquity of the fathers on the children to the third and fourth generation of those who hate me, but showing steadfast love to thousands of those who love me and keep my commandments."
     notes: |-
-      No Change.
+      Update from KJV to ESV
 
     scriptures:
   -
     number: 83
-    completed: false
+    completed: true
     trad:
       Q: "What does the second commandment teach us?"
       A: "To worship God in a proper manner, and to avoid idolatry."
     adapt:
-      Q: ""
-      A: ""
+      Q: "What duty does the second commandment teach us?"
+      A: "To worship God correctly, and to avoid idolatry."
     notes: |-
-      No Change.
+      Supplies the word 'duty' to continue the sectional theme. Additionally the phrase 'proper manner' is simplified to 'correctly'.
 
     scriptures:
   -
     number: 84
-    completed: false
+    completed: true
     trad:
       Q: "What is the third commandment?"
       A: "The third commandment is, Thou shalt not take the name of the Lord thy God in vain: for the Lord will not hold him guiltless that taketh his name in vain."
     adapt:
-      Q: ""
-      A: ""
+      Q: "What is the third commandment?"
+      A: "The third commandment is: You shall not take the name of the LORD your God in vain, for the LORD will not hold him guiltless who takes his name in vain."
     notes: |-
-      No Change.
+      Update from KJV to ESV
 
     scriptures:
   -
     number: 85
-    completed: false
+    completed: true
     trad:
       Q: "What does the third commandment teach me?"
       A: "To reverence God’s name, word, and works."
     adapt:
-      Q: ""
-      A: ""
+      Q: "What duty does the third commandment teach us?"
+      A: "To honor God’s name, word, and works."
     notes: |-
-      No Change.
+      Supplies the word 'duty' to continue the sectional theme. Additionally the workd 'reverence' is modernized to 'honor'. While the word honor doesn't
+        quite capture the same quality of awe and wonder that reverence does, it is sufficiently close.
 
     scriptures:
   -

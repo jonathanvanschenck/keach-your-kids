@@ -16,8 +16,8 @@ For a printable page, [click here](/cfyc/full)
 
 <div>
   <span style="margin-right: 1rem;">Adaptation Progress:</span>
-  <progress value="80" max="144"></progress>
-  <span style="margin-left: 1rem;">55.6%</span>
+  <progress value="88" max="144"></progress>
+  <span style="margin-left: 1rem;">61.1%</span>
 </div>
 
 | Link | Adapted |
@@ -175,21 +175,21 @@ For a printable page, [click here](/cfyc/full)
 | :----: | :---------: |
 | [Question 76](/cfyc/questions/76) | ✅ |
 | :----: | :---------: |
-| [Question 78](/cfyc/questions/78) | ⛔ |
+| [Question 78](/cfyc/questions/78) | ✅ |
 | :----: | :---------: |
-| [Question 79](/cfyc/questions/79) | ⛔ |
+| [Question 79](/cfyc/questions/79) | ✅ |
 | :----: | :---------: |
-| [Question 80](/cfyc/questions/80) | ⛔ |
+| [Question 80](/cfyc/questions/80) | ✅ |
 | :----: | :---------: |
-| [Question 81](/cfyc/questions/81) | ⛔ |
+| [Question 81](/cfyc/questions/81) | ✅ |
 | :----: | :---------: |
-| [Question 82](/cfyc/questions/82) | ⛔ |
+| [Question 82](/cfyc/questions/82) | ✅ |
 | :----: | :---------: |
-| [Question 83](/cfyc/questions/83) | ⛔ |
+| [Question 83](/cfyc/questions/83) | ✅ |
 | :----: | :---------: |
-| [Question 84](/cfyc/questions/84) | ⛔ |
+| [Question 84](/cfyc/questions/84) | ✅ |
 | :----: | :---------: |
-| [Question 85](/cfyc/questions/85) | ⛔ |
+| [Question 85](/cfyc/questions/85) | ✅ |
 | :----: | :---------: |
 | [Question 86](/cfyc/questions/86) | ⛔ |
 | :----: | :---------: |
